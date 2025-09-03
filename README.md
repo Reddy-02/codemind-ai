@@ -65,8 +65,8 @@ Access at: http://localhost:3000
 🔎 RAG-powered outputs: More context-aware, accurate code generation.
 
 🎓 Internship Context
-This project was developed as part of my 6-week Virtual Internship on
-Artificial Intelligence & Machine Learning, organized by AICTE, implemented by Edunet Foundation, and powered by IBM SkillsBuild.
+
+This project was developed as part of my 6-week Virtual Internship on Artificial Intelligence & Machine Learning, organized by AICTE, implemented by Edunet Foundation, and powered by IBM SkillsBuild.
 
 It gave me the opportunity to:
 
@@ -77,6 +77,7 @@ Strengthen full-stack development & deployment skills.
 Manage timelines, work independently, and present solutions to experts.
 
 🔗 Project Links
+
 🌐 Live App (Vercel):https://reddy-codemind.vercel.app/
 
 💻 GitHub Repo: https://github.com/Reddy-02/codemind-ai
